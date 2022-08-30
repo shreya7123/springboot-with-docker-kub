@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: suha7131/dockerkub:jhooq-docker-demo
+          image: shreya7123/shreya2:assignment
           ports:
             - containerPort: 8080
           env:

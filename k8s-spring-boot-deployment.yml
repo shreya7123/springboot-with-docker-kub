@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: shreya7123/shreya2:assignment
+          image: shreya7123/shreya2:practice
           ports:
             - containerPort: 8080
           env:
